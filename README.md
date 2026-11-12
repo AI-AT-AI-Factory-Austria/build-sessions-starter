@@ -8,13 +8,13 @@ Before the workshop: [setup guide](docs/setup-guide-en.pdf) and [cheat sheet](do
 
 ## Three steps
 
-1. **Make your own private copy.** Sign in to GitHub, click **Use this template → Create a new repository**, choose **Private** and create it. Then **Code → Open with GitHub Desktop** and clone it to your laptop. No GitHub account? **Code → Download ZIP** works too.
+1. **Make your own private copy.** Sign in to GitHub, click **Use this template → Create a new repository**, choose **Private** and create it. Then **Code → Open with GitHub Desktop** and clone it to your laptop. No GitHub account? **Code → Download ZIP** works too: unzip it first.
 2. **Open your copy** in Claude Code or Codex. In the app: open the folder. In the terminal: go into the folder and type `claude` or `codex`.
 3. **Type `start`.**
 
 The agent gets to know you, helps you find an idea, plans it with you, builds a first version and checks it. You decide, it does the work.
 
-Along the way the agent tells you when to save a version: in GitHub Desktop, type a short summary, click **Commit to main**, then **Push origin**. Your work is then in your private repository.
+If you made your own copy on GitHub, the agent tells you along the way when to save a version: in GitHub Desktop, type a short summary, click **Commit to main**, then **Push origin**. Your work is then in your private repository.
 
 ## Words you can use any time
 
@@ -37,7 +37,7 @@ Only made-up data. No real names, customers, files from work, passwords or keys.
 
 ## Keep going
 
-Same folder, same plan. Open the agent again and say `where are we`. Your saved versions are in your private repository. More exercises: [AI:AT Build Sessions](https://github.com/AIAT-AIandBusinessgrowth/aiat-build-sessions).
+Same folder, same plan. Open the agent again and say `where are we`. If you saved versions, they are in your private repository. More exercises: [AI:AT Build Sessions](https://github.com/AIAT-AIandBusinessgrowth/aiat-build-sessions).
 
 Shared as is, without support. Found an error or have an idea? Open an issue.
 
